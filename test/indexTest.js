@@ -1,4 +1,4 @@
-require ( './root.js' );
+const expect = require ( './root.js' );
 
 var a, b
 
